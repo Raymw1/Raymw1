@@ -5,11 +5,11 @@
 - 👯 I’m looking to collaborate on cool, interesting projects.
 - 📫 How to reach me: @ray.coding
 - ⚡ Fun fact: I love to learn new things(that I'm interested).
-
-![image](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg)
-![image](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![image](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg)
-![image](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 
 <!--
 **Raymw1/Raymw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
