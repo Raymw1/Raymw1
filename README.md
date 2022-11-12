@@ -3,8 +3,12 @@
 - 👯 I’m looking to collaborate on cool, interesting projects.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raymw1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raymw1&layout=compact&langs_count=16&theme=dark"/>
+  <a href="#">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raymw1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="#">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raymw1&layout=compact&langs_count=16&theme=dark"/>
+  </a>
 <div>
 
 
